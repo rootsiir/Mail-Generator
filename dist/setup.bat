@@ -1,3 +1,0 @@
-pip install colorama
-
-pause
