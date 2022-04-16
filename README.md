@@ -10,4 +10,4 @@
 Discord = rootsiir#3334
 Black Poetry
 
-![image](https://user-images.githubusercontent.com/98325453/163680863-fd8e28f8-e37d-42df-8fea-25365271890f.png)
+![image](https://user-images.githubusercontent.com/98325453/163681339-1bc0b7b6-6710-41f8-a725-c0058c2177db.png)
