@@ -1,0 +1,3 @@
+python mail.py
+
+pause
